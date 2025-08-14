@@ -1,0 +1,2 @@
+# metaexample
+Loja exemplo
